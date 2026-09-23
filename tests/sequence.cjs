@@ -11,7 +11,10 @@ const plan = {};
 vm.createContext(plan);
 vm.runInContext(fs.readFileSync(path.join(root, "assets/data.js"), "utf8"), plan);
 
-assert.equal(plan.PLAN_REVISION, "2026-09-23-freestyle-breaststroke-v2");
+assert.equal(
+  plan.PLAN_REVISION,
+  "2026-09-23-freestyle-breaststroke-v2-full-names",
+);
 assert.equal(plan.DAYS.length, 19);
 assert.deepEqual(Array.from(plan.WEEKS, (week) => week.name), [
   "Peak week",
@@ -53,12 +56,12 @@ assert.deepEqual(Array.from(first.blocks, (block) => block.t), [
   "Easy endurance",
   "Cool-down",
 ]);
-assert.match(first.blocks[3].d, /3 FR \+ 1 BR/);
+assert.match(first.blocks[3].d, /3 freestyle \+ 1 breaststroke/);
 assert.match(plan.DAYS.find((day) => day.id === "w2d4").note, /true pace/i);
 assert.match(plan.DAYS.find((day) => day.id === "w3d6").title, /Pre-race activation/);
 assert.match(
   plan.DAYS.at(-1).blocks.find((block) => block.t === "Race cues").d,
-  /50 BR/,
+  /50 m breaststroke/,
 );
 assert.match(plan.DAYS.at(-1).blocks.at(-1).t, /race log/i);
 

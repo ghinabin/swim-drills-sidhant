@@ -1,6 +1,6 @@
 /* Generated from SWIMMING-PLAN.md by scripts/import-plan.cjs. */
 "use strict";
-var PLAN_REVISION = "2026-09-23-freestyle-breaststroke-v2";
+var PLAN_REVISION = "2026-09-23-freestyle-breaststroke-v2-full-names";
 var PLAN_GUIDANCE = [
   "Pool window: 07:30–09:30. Finish when the listed work is done; two hours is availability, not a target. Before the water do 5–10 minutes of mobility only. Skip hard gym or dryland work after 30 September.",
   "Speed work comes first, right after warm-up and technique, while fresh. Never do it tired.",
@@ -16,27 +16,27 @@ var PLAN_GUIDANCE = [
 ];
 var TECHNIQUE_CUES = [
   {
-    "focus": "FR breathing/alignment",
+    "focus": "Freestyle breathing/alignment",
     "cue": "Easy normal freestyle; exhale gently into the water, turn to inhale when needed. Keep the head aligned."
   },
   {
-    "focus": "BR timing",
+    "focus": "Breaststroke timing",
     "cue": "One cue: pull and breathe, recover the hands forward, kick into a long body line. Keep a brief natural glide; use a quicker connected rhythm at race effort."
   },
   {
-    "focus": "BR kick",
+    "focus": "Breaststroke kick",
     "cue": "Comfortable and coordinated. The feet must be turned outward during the most propulsive part of the kick; ask your coach to check this. Stop breaststroke kick if knees or groin hurt."
   },
   {
-    "focus": "FR turn",
+    "focus": "Freestyle turn",
     "cue": "Fast approach, secure foot placement, streamlined push, early return to surface swimming."
   },
   {
-    "focus": "BR turn/finish",
+    "focus": "Breaststroke turn/finish",
     "cue": "Touch with both hands at the same time and separated (not stacked). The last stroke before the turn or finish may be an arm stroke without a kick."
   },
   {
-    "focus": "FR underwater",
+    "focus": "Freestyle underwater",
     "cue": "Short underwater dolphin kick only as far as comfortable (about 5–8 m), surfacing by the 15 m mark. Coach-checked. No breath-hold goals."
   },
   {
@@ -44,7 +44,7 @@ var TECHNIQUE_CUES = [
     "cue": "Only an already-taught start, supervised, in a permitted start area. Otherwise use a wall push."
   },
   {
-    "focus": "BR pullout",
+    "focus": "Breaststroke pullout",
     "cue": "One underwater arm stroke back to the legs is allowed after a start or turn. One butterfly kick may come before the first breaststroke kick. The head must break the surface before the hands turn inward at the widest part of the second arm stroke. Surface sooner whenever needed; the pullout is not an underwater-distance goal."
   }
 ];
@@ -63,7 +63,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -73,7 +73,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR exhalation/alignment + 2 BR timing.",
+        "d": "4 × 25 m. 2 freestyle exhalation/alignment + 2 breaststroke timing.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -83,7 +83,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Fast turns",
-        "d": "6 × 25 m. Fast-turn drill. 4 FR + 2 BR (FR, FR, BR, FR, FR, BR).",
+        "d": "6 × 25 m. Fast-turn drill. 4 freestyle + 2 breaststroke (freestyle, freestyle, breaststroke, freestyle, freestyle, breaststroke).",
         "r": "45–60 s",
         "k": "skill",
         "meters": 150,
@@ -93,7 +93,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Max speed",
-        "d": "4 × 25 m. 3 FR + 1 BR from a push or supervised start. Max (10/10) for the first 15 m, hold form to the wall.",
+        "d": "4 × 25 m. 3 freestyle + 1 breaststroke from a push or supervised start. Max (10/10) for the first 15 m, hold form to the wall.",
         "r": "2–3 min",
         "k": "max",
         "meters": 100,
@@ -103,7 +103,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "100 pace",
-        "d": "4 × 50 m. FR at 7–8/10, even first and second 25.",
+        "d": "4 × 50 m. Freestyle at 7–8/10, even first and second 25.",
         "r": "60–90 s",
         "k": "pace",
         "meters": 200,
@@ -113,7 +113,7 @@ var DAYS = [
       {
         "n": 10,
         "t": "Easy endurance",
-        "d": "5 × 50 m. Alternate FR / BR, 3–4/10.",
+        "d": "5 × 50 m. Alternate freestyle / breaststroke, 3–4/10.",
         "r": "30–40 s",
         "k": "endurance",
         "meters": 250,
@@ -123,7 +123,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Cool-down",
-        "d": "4 × 25 m. Easy FR or comfortable backstroke.",
+        "d": "4 × 25 m. Easy freestyle or comfortable backstroke.",
         "r": "20 s",
         "k": "easy",
         "meters": 100,
@@ -148,7 +148,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -158,7 +158,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Light drills",
-        "d": "4 × 25 m. 2 FR exhalation/alignment + 2 BR timing.",
+        "d": "4 × 25 m. 2 freestyle exhalation/alignment + 2 breaststroke timing.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -168,7 +168,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Start rehearsal",
-        "d": "2 × 25 m. 1 FR + 1 BR, familiar supervised start; easy after the breakout.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, familiar supervised start; easy after the breakout.",
         "r": "90–120 s",
         "k": "skill",
         "meters": 50,
@@ -177,8 +177,8 @@ var DAYS = [
       },
       {
         "n": 2,
-        "t": "Race simulation: FR",
-        "d": "1 × 50 m. Full 50 FR at 8/10: start, turn, finish.",
+        "t": "Race simulation: Freestyle",
+        "d": "1 × 50 m. Full 50 m freestyle at 8/10: start, turn, finish.",
         "r": "8–10 min total recovery",
         "k": "pace",
         "meters": 50,
@@ -188,7 +188,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Between races",
-        "d": "4 × 25 m. Very easy FR/backstroke. Coach feedback.",
+        "d": "4 × 25 m. Very easy freestyle/backstroke. Coach feedback.",
         "r": "30 s",
         "k": "pace",
         "meters": 100,
@@ -197,8 +197,8 @@ var DAYS = [
       },
       {
         "n": 2,
-        "t": "Race simulation: BR",
-        "d": "1 × 50 m. Full 50 BR at 8/10: legal pullout, rhythm, two-hand turn and finish.",
+        "t": "Race simulation: Breaststroke",
+        "d": "1 × 50 m. Full 50 m breaststroke at 8/10: legal pullout, rhythm, two-hand turn and finish.",
         "r": "5–8 min until settled",
         "k": "pace",
         "meters": 50,
@@ -208,7 +208,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "100 rehearsal",
-        "d": "1 × 100 m. FR at 7/10, even pace: the second 50 within about 2 s of the first.",
+        "d": "1 × 100 m. Freestyle at 7/10, even pace: the second 50 within about 2 s of the first.",
         "r": "2–3 min",
         "k": "easy",
         "meters": 100,
@@ -218,7 +218,7 @@ var DAYS = [
       {
         "n": 14,
         "t": "Easy volume",
-        "d": "7 × 50 m. 4 FR + 3 BR, 3/10; may split into 25s.",
+        "d": "7 × 50 m. 4 freestyle + 3 breaststroke, 3/10; may split into 25s.",
         "r": "30–45 s",
         "k": "endurance",
         "meters": 350,
@@ -228,7 +228,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Cool-down",
-        "d": "4 × 25 m. Easy FR or comfortable backstroke.",
+        "d": "4 × 25 m. Easy freestyle or comfortable backstroke.",
         "r": "20 s",
         "k": "easy",
         "meters": 100,
@@ -268,7 +268,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Warm-up",
-        "d": "6 × 25 m. 3 FR + 3 BR, easy.",
+        "d": "6 × 25 m. 3 freestyle + 3 breaststroke, easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 150,
@@ -278,7 +278,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR alignment + 2 BR timing.",
+        "d": "4 × 25 m. 2 freestyle alignment + 2 breaststroke timing.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -288,7 +288,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Easy aerobic",
-        "d": "4 × 50 m. Alternate FR / BR, 3/10. No fast work.",
+        "d": "4 × 50 m. Alternate freestyle / breaststroke, 3/10. No fast work.",
         "r": "30–40 s",
         "k": "endurance",
         "meters": 200,
@@ -323,7 +323,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -333,7 +333,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR alignment + 2 BR timing.",
+        "d": "4 × 25 m. 2 freestyle alignment + 2 breaststroke timing.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -343,7 +343,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Race-pace 25s",
-        "d": "6 × 25 m. 9/10; 4 FR + 2 BR (FR, FR, BR, FR, FR, BR). Stop early if two reps in a row fade by about 1 s.",
+        "d": "6 × 25 m. 9/10; 4 freestyle + 2 breaststroke (freestyle, freestyle, breaststroke, freestyle, freestyle, breaststroke). Stop early if two reps in a row fade by about 1 s.",
         "r": "45–60 s",
         "k": "pace",
         "meters": 150,
@@ -353,7 +353,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "100 pace",
-        "d": "2 × 50 m. FR at 8/10, even split.",
+        "d": "2 × 50 m. Freestyle at 8/10, even split.",
         "r": "90 s",
         "k": "pace",
         "meters": 100,
@@ -363,7 +363,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Easy",
-        "d": "3 × 50 m. Alternate FR / BR, 3–4/10.",
+        "d": "3 × 50 m. Alternate freestyle / breaststroke, 3–4/10.",
         "r": "30–40 s",
         "k": "easy",
         "meters": 150,
@@ -373,7 +373,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Cool-down",
-        "d": "4 × 25 m. Easy FR or comfortable backstroke.",
+        "d": "4 × 25 m. Easy freestyle or comfortable backstroke.",
         "r": "20 s",
         "k": "easy",
         "meters": 100,
@@ -398,7 +398,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -408,7 +408,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -418,7 +418,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Starts + breakout",
-        "d": "4 × 25 m. 2 FR + 2 BR. Familiar supervised start, brief comfortable breakout; wall push if needed. FR: short underwater kick only.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke. Familiar supervised start, brief comfortable breakout; wall push if needed. Freestyle: short underwater kick only.",
         "r": "90–120 s",
         "k": "skill",
         "meters": 100,
@@ -428,7 +428,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Fast turns",
-        "d": "4 × 25 m. Fast-turn drill, 2 FR + 2 BR.",
+        "d": "4 × 25 m. Fast-turn drill, 2 freestyle + 2 breaststroke.",
         "r": "45–60 s",
         "k": "skill",
         "meters": 100,
@@ -438,7 +438,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Easy endurance",
-        "d": "3 × 50 m. Alternate FR / BR, 3–4/10.",
+        "d": "3 × 50 m. Alternate freestyle / breaststroke, 3–4/10.",
         "r": "30–45 s",
         "k": "endurance",
         "meters": 150,
@@ -456,7 +456,7 @@ var DAYS = [
         "progressKey": "v2-b5"
       }
     ],
-    "note": "The coach checks the legal BR pullout and first surface stroke. Never extend underwater distance.",
+    "note": "The coach checks the legal breaststroke pullout and first surface stroke. Never extend underwater distance.",
     "weekName": "Taper"
   },
   {
@@ -473,7 +473,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Warm-up",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 100,
@@ -483,7 +483,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -493,7 +493,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Easy aerobic",
-        "d": "2 × 50 m. 1 FR + 1 BR, 3/10.",
+        "d": "2 × 50 m. 1 freestyle + 1 breaststroke, 3/10.",
         "r": "30 s",
         "k": "endurance",
         "meters": 100,
@@ -528,7 +528,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -538,7 +538,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -548,7 +548,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Max speed",
-        "d": "4 × 25 m. 3 FR + 1 BR from a push or supervised start. Max for the first 15 m.",
+        "d": "4 × 25 m. 3 freestyle + 1 breaststroke from a push or supervised start. Max for the first 15 m.",
         "r": "2–3 min",
         "k": "max",
         "meters": 100,
@@ -558,7 +558,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "100 pace",
-        "d": "2 × 50 m. FR at 8/10, even split.",
+        "d": "2 × 50 m. Freestyle at 8/10, even split.",
         "r": "90 s",
         "k": "pace",
         "meters": 100,
@@ -568,7 +568,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Race-pace 25s",
-        "d": "4 × 25 m. 9/10; 2 FR + 2 BR.",
+        "d": "4 × 25 m. 9/10; 2 freestyle + 2 breaststroke.",
         "r": "45–60 s",
         "k": "pace",
         "meters": 100,
@@ -578,7 +578,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Cool-down",
-        "d": "4 × 25 m. Easy FR or comfortable backstroke.",
+        "d": "4 × 25 m. Easy freestyle or comfortable backstroke.",
         "r": "20 s",
         "k": "easy",
         "meters": 100,
@@ -603,7 +603,7 @@ var DAYS = [
       {
         "n": 8,
         "t": "Warm-up",
-        "d": "8 × 25 m. Alternate 2 FR / 2 BR; easy.",
+        "d": "8 × 25 m. Alternate 2 freestyle / 2 breaststroke; easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 200,
@@ -613,7 +613,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Light drills",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy technique.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy technique.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -623,7 +623,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Start rehearsal",
-        "d": "2 × 25 m. 1 FR + 1 BR, familiar supervised start; easy after the breakout.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, familiar supervised start; easy after the breakout.",
         "r": "90–120 s",
         "k": "skill",
         "meters": 50,
@@ -632,8 +632,8 @@ var DAYS = [
       },
       {
         "n": 2,
-        "t": "Max test: FR",
-        "d": "1 × 50 m. **Max effort** 50 FR, start to finish. Coach or a friend times it and records the 25 splits.",
+        "t": "Max test: Freestyle",
+        "d": "1 × 50 m. **Max effort** 50 m freestyle, start to finish. Coach or a friend times it and records the 25 splits.",
         "r": "8–10 min total recovery",
         "k": "max",
         "meters": 50,
@@ -643,7 +643,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Between swims",
-        "d": "4 × 25 m. Very easy FR/backstroke.",
+        "d": "4 × 25 m. Very easy freestyle/backstroke.",
         "r": "30 s",
         "k": "easy",
         "meters": 100,
@@ -652,8 +652,8 @@ var DAYS = [
       },
       {
         "n": 2,
-        "t": "Test: BR",
-        "d": "1 × 50 m. 50 BR at 9/10 with legal pullout and two-hand touches.",
+        "t": "Test: Breaststroke",
+        "d": "1 × 50 m. 50 m breaststroke at 9/10 with legal pullout and two-hand touches.",
         "r": "3–5 min",
         "k": "pace",
         "meters": 50,
@@ -673,7 +673,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Cool-down",
-        "d": "4 × 25 m. Easy FR or comfortable backstroke.",
+        "d": "4 × 25 m. Easy freestyle or comfortable backstroke.",
         "r": "20 s",
         "k": "easy",
         "meters": 100,
@@ -713,7 +713,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Warm-up",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 100,
@@ -723,7 +723,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -758,7 +758,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Warm-up",
-        "d": "6 × 25 m. 3 FR + 3 BR, easy.",
+        "d": "6 × 25 m. 3 freestyle + 3 breaststroke, easy.",
         "r": "25 s",
         "k": "easy",
         "meters": 150,
@@ -768,7 +768,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR alignment + 2 BR timing.",
+        "d": "4 × 25 m. 2 freestyle alignment + 2 breaststroke timing.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -778,7 +778,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Max speed",
-        "d": "2 × 25 m. 1 FR max + 1 BR at 9/10, from a push or supervised start.",
+        "d": "2 × 25 m. 1 freestyle max + 1 breaststroke at 9/10, from a push or supervised start.",
         "r": "2–3 min",
         "k": "max",
         "meters": 50,
@@ -788,7 +788,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "100 pace",
-        "d": "2 × 50 m. FR at 8/10, even split.",
+        "d": "2 × 50 m. Freestyle at 8/10, even split.",
         "r": "90 s",
         "k": "pace",
         "meters": 100,
@@ -823,7 +823,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Warm-up",
-        "d": "6 × 25 m. 3 FR + 3 BR, easy.",
+        "d": "6 × 25 m. 3 freestyle + 3 breaststroke, easy.",
         "r": "25 s",
         "k": "easy",
         "meters": 150,
@@ -833,7 +833,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -843,7 +843,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Starts + breakout",
-        "d": "4 × 25 m. 2 FR + 2 BR. Familiar supervised start, brief breakout; wall push if needed.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke. Familiar supervised start, brief breakout; wall push if needed.",
         "r": "90–120 s",
         "k": "skill",
         "meters": 100,
@@ -853,7 +853,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Fast turns",
-        "d": "2 × 25 m. Fast-turn drill, 1 FR + 1 BR.",
+        "d": "2 × 25 m. Fast-turn drill, 1 freestyle + 1 breaststroke.",
         "r": "45–60 s",
         "k": "skill",
         "meters": 50,
@@ -863,7 +863,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Finish practice",
-        "d": "2 × 25 m. 1 FR + 1 BR, easy approach with an accurate race finish.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, easy approach with an accurate race finish.",
         "r": "30–45 s",
         "k": "skill",
         "meters": 50,
@@ -898,7 +898,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Warm-up",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "25 s",
         "k": "easy",
         "meters": 100,
@@ -908,7 +908,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR, relaxed.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, relaxed.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -918,7 +918,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Build",
-        "d": "2 × 25 m. 1 FR + 1 BR, build smoothly to 7/10.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, build smoothly to 7/10.",
         "r": "60 s",
         "k": "pace",
         "meters": 50,
@@ -953,7 +953,7 @@ var DAYS = [
       {
         "n": 6,
         "t": "Warm-up",
-        "d": "6 × 25 m. 3 FR + 3 BR, easy.",
+        "d": "6 × 25 m. 3 freestyle + 3 breaststroke, easy.",
         "r": "25 s",
         "k": "easy",
         "meters": 150,
@@ -963,7 +963,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Technique",
-        "d": "2 × 25 m. 1 FR + 1 BR, easy.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, easy.",
         "r": "30 s",
         "k": "tech",
         "meters": 50,
@@ -973,7 +973,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Full-race sequence",
-        "d": "2 × 50 m. 1 FR + 1 BR at 7/10, familiar start through finish; NOT a time trial.",
+        "d": "2 × 50 m. 1 freestyle + 1 breaststroke at 7/10, familiar start through finish; NOT a time trial.",
         "r": "5 min between; longer if breathing is unsettled",
         "k": "pace",
         "meters": 100,
@@ -1008,7 +1008,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Warm-up",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "25 s",
         "k": "easy",
         "meters": 100,
@@ -1018,7 +1018,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Technique",
-        "d": "4 × 25 m. 2 FR + 2 BR, relaxed.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, relaxed.",
         "r": "30 s",
         "k": "tech",
         "meters": 100,
@@ -1028,7 +1028,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Brief speed",
-        "d": "2 × 25 m. 1 FR + 1 BR at 8/10.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke at 8/10.",
         "r": "90 s",
         "k": "pace",
         "meters": 50,
@@ -1078,7 +1078,7 @@ var DAYS = [
       {
         "n": 4,
         "t": "Warm-up",
-        "d": "4 × 25 m. 2 FR + 2 BR, easy.",
+        "d": "4 × 25 m. 2 freestyle + 2 breaststroke, easy.",
         "r": "20–30 s",
         "k": "easy",
         "meters": 100,
@@ -1088,7 +1088,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Technique",
-        "d": "2 × 25 m. 1 FR + 1 BR, relaxed.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke, relaxed.",
         "r": "30 s",
         "k": "tech",
         "meters": 50,
@@ -1098,7 +1098,7 @@ var DAYS = [
       {
         "n": 2,
         "t": "Activation",
-        "d": "2 × 25 m. 1 FR + 1 BR at 8/10, clean and quick.",
+        "d": "2 × 25 m. 1 freestyle + 1 breaststroke at 8/10, clean and quick.",
         "r": "90 s",
         "k": "pace",
         "meters": 50,
@@ -1135,7 +1135,7 @@ var DAYS = [
         "n": 8,
         "unit": "LENGTHS",
         "t": "Warm-up",
-        "d": "4 × 50 easy: 2 FR + 2 BR",
+        "d": "4 × 50 easy: 2 freestyle + 2 breaststroke",
         "r": "200 m; 20–30 s rest",
         "k": "easy",
         "progressKey": "v2-r0"
@@ -1162,7 +1162,7 @@ var DAYS = [
         "n": 2,
         "unit": "LENGTHS",
         "t": "Start + burst",
-        "d": "2 × 25: one FR, one BR from a start if the warm-up pool allows it, otherwise a wall push",
+        "d": "2 × 25: one freestyle, one breaststroke from a start if the warm-up pool allows it, otherwise a wall push",
         "r": "50 m; 90–120 s rest",
         "k": "skill",
         "progressKey": "v2-r3"
@@ -1216,7 +1216,7 @@ var DAYS = [
         "n": "3",
         "unit": "CUES",
         "t": "Race cues",
-        "d": "50 FR: react and drive off the start, keep tempo through the turn, breathe naturally, swim through the touch. · 100 FR: aim for a controlled first 50 and a purposeful second 50; second 50 within about 2 s of the first. · 50 BR: connected pull–kick timing, legal pullout, quick two-hand touches on the turn and finish.",
+        "d": "50 m freestyle: react and drive off the start, keep tempo through the turn, breathe naturally, swim through the touch. · 100 m freestyle: aim for a controlled first 50 and a purposeful second 50; second 50 within about 2 s of the first. · 50 m breaststroke: connected pull–kick timing, legal pullout, quick two-hand touches on the turn and finish.",
         "r": "Use one familiar cue for each event.",
         "k": "skill",
         "progressKey": "v2-race-cues"

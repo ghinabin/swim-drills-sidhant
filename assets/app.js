@@ -170,7 +170,7 @@ function overview() {
   main.innerHTML =
     intro(
       "Pool drills",
-      "50 + 100 free · 50 breast · 25 m pool",
+      "50 m and 100 m freestyle · 50 m breaststroke · 25 m pool",
     ) +
     '<section class="hero" aria-labelledby="current-session"><div><div class="eyebrow">' +
     (dateKey(currentDay.date) === todayKey ? "Today" : "Next session") +

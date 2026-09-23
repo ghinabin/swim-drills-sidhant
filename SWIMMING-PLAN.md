@@ -2,7 +2,7 @@
 
 **24 September–12 October 2026 · Target: 12 October · Rest day: Saturday only**
 
-**Assumptions:** events are 50 m freestyle (FR), 100 m freestyle (FR) and 50 m breaststroke (BR), trained in a 25 m pool. If you are not entered in the 100 m FR, keep the "100 pace" rows as easy-to-moderate 50s instead. In a 25 m pool every 50 includes one turn, so turns are race skills here, not extras. Confirm entries, event order and start rules with your coach.
+**Assumptions:** events are 50 m freestyle, 100 m freestyle and 50 m breaststroke, trained in a 25 m pool. If you are not entered in the 100 m freestyle, keep the "100 pace" rows as easy-to-moderate 50s instead. In a 25 m pool every 50 includes one turn, so turns are race skills here, not extras. Confirm entries, event order and start rules with your coach.
 
 ## What changed from v1
 
@@ -41,14 +41,14 @@ Nineteen days is not long enough to build much new aerobic capacity. The realist
 
 | Focus | What to practise |
 |---|---|
-| FR breathing/alignment | Easy normal freestyle; exhale gently into the water, turn to inhale when needed. Keep the head aligned. |
-| BR timing | One cue: pull and breathe, recover the hands forward, kick into a long body line. Keep a brief natural glide; use a quicker connected rhythm at race effort. |
-| BR kick | Comfortable and coordinated. The feet must be turned outward during the most propulsive part of the kick; ask your coach to check this. Stop breaststroke kick if knees or groin hurt. |
-| FR turn | Fast approach, secure foot placement, streamlined push, early return to surface swimming. |
-| BR turn/finish | Touch with both hands at the same time and separated (not stacked). The last stroke before the turn or finish may be an arm stroke without a kick. |
-| FR underwater | Short underwater dolphin kick only as far as comfortable (about 5–8 m), surfacing by the 15 m mark. Coach-checked. No breath-hold goals. |
+| Freestyle breathing/alignment | Easy normal freestyle; exhale gently into the water, turn to inhale when needed. Keep the head aligned. |
+| Breaststroke timing | One cue: pull and breathe, recover the hands forward, kick into a long body line. Keep a brief natural glide; use a quicker connected rhythm at race effort. |
+| Breaststroke kick | Comfortable and coordinated. The feet must be turned outward during the most propulsive part of the kick; ask your coach to check this. Stop breaststroke kick if knees or groin hurt. |
+| Freestyle turn | Fast approach, secure foot placement, streamlined push, early return to surface swimming. |
+| Breaststroke turn/finish | Touch with both hands at the same time and separated (not stacked). The last stroke before the turn or finish may be an arm stroke without a kick. |
+| Freestyle underwater | Short underwater dolphin kick only as far as comfortable (about 5–8 m), surfacing by the 15 m mark. Coach-checked. No breath-hold goals. |
 | Dive | Only an already-taught start, supervised, in a permitted start area. Otherwise use a wall push. |
-| BR pullout | One underwater arm stroke back to the legs is allowed after a start or turn. One butterfly kick may come before the first breaststroke kick. The head must break the surface before the hands turn inward at the widest part of the second arm stroke. Surface sooner whenever needed; the pullout is not an underwater-distance goal. |
+| Breaststroke pullout | One underwater arm stroke back to the legs is allowed after a start or turn. One butterfly kick may come before the first breaststroke kick. The head must break the surface before the hands turn inward at the widest part of the second arm stroke. Surface sooner whenever needed; the pullout is not an underwater-distance goal. |
 
 **No breath-hold sets, hyperventilation, underwater time or distance targets, or forced kick counts.** Breathe whenever needed; all swimming is supervised. ([AIS breath-hold safety](https://www.ausport.gov.au/ais/position_statements/breath-hold-training) · [World Aquatics swimming rules](https://resources.fina.org/fina/document/2023/01/04/65961a45-bde5-4217-b666-ca1f5dc2d1f0/1_Swimming-Technical-Rules.04.01.2023.pdf))
 
@@ -60,13 +60,13 @@ Nineteen days is not long enough to build much new aerobic capacity. The realist
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR exhalation/alignment + 2 BR timing. | 30 s |
-| Fast turns | 6 × 25 m | 150 | Fast-turn drill. 4 FR + 2 BR (FR, FR, BR, FR, FR, BR). | 45–60 s |
-| Max speed | 4 × 25 m | 100 | 3 FR + 1 BR from a push or supervised start. Max (10/10) for the first 15 m, hold form to the wall. | 2–3 min |
-| 100 pace | 4 × 50 m | 200 | FR at 7–8/10, even first and second 25. | 60–90 s |
-| Easy endurance | 5 × 50 m | 250 | Alternate FR / BR, 3–4/10. | 30–40 s |
-| Cool-down | 4 × 25 m | 100 | Easy FR or comfortable backstroke. | 20 s |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle exhalation/alignment + 2 breaststroke timing. | 30 s |
+| Fast turns | 6 × 25 m | 150 | Fast-turn drill. 4 freestyle + 2 breaststroke (freestyle, freestyle, breaststroke, freestyle, freestyle, breaststroke). | 45–60 s |
+| Max speed | 4 × 25 m | 100 | 3 freestyle + 1 breaststroke from a push or supervised start. Max (10/10) for the first 15 m, hold form to the wall. | 2–3 min |
+| 100 pace | 4 × 50 m | 200 | Freestyle at 7–8/10, even first and second 25. | 60–90 s |
+| Easy endurance | 5 × 50 m | 250 | Alternate freestyle / breaststroke, 3–4/10. | 30–40 s |
+| Cool-down | 4 × 25 m | 100 | Easy freestyle or comfortable backstroke. | 20 s |
 
 **Checkpoint:** compare your max 25s; if the third is clearly slower than the first, stop the speed block there. Skip "Easy endurance" if you are tired.
 
@@ -74,15 +74,15 @@ Nineteen days is not long enough to build much new aerobic capacity. The realist
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Light drills | 4 × 25 m | 100 | 2 FR exhalation/alignment + 2 BR timing. | 30 s |
-| Start rehearsal | 2 × 25 m | 50 | 1 FR + 1 BR, familiar supervised start; easy after the breakout. | 90–120 s |
-| Race simulation: FR | 1 × 50 m | 50 | Full 50 FR at 8/10: start, turn, finish. | 8–10 min total recovery |
-| Between races | 4 × 25 m | 100 | Very easy FR/backstroke. Coach feedback. | 30 s |
-| Race simulation: BR | 1 × 50 m | 50 | Full 50 BR at 8/10: legal pullout, rhythm, two-hand turn and finish. | 5–8 min until settled |
-| 100 rehearsal | 1 × 100 m | 100 | FR at 7/10, even pace: the second 50 within about 2 s of the first. | 2–3 min |
-| Easy volume | 7 × 50 m | 350 | 4 FR + 3 BR, 3/10; may split into 25s. | 30–45 s |
-| Cool-down | 4 × 25 m | 100 | Easy FR or comfortable backstroke. | 20 s |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Light drills | 4 × 25 m | 100 | 2 freestyle exhalation/alignment + 2 breaststroke timing. | 30 s |
+| Start rehearsal | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, familiar supervised start; easy after the breakout. | 90–120 s |
+| Race simulation: Freestyle | 1 × 50 m | 50 | Full 50 m freestyle at 8/10: start, turn, finish. | 8–10 min total recovery |
+| Between races | 4 × 25 m | 100 | Very easy freestyle/backstroke. Coach feedback. | 30 s |
+| Race simulation: Breaststroke | 1 × 50 m | 50 | Full 50 m breaststroke at 8/10: legal pullout, rhythm, two-hand turn and finish. | 5–8 min until settled |
+| 100 rehearsal | 1 × 100 m | 100 | Freestyle at 7/10, even pace: the second 50 within about 2 s of the first. | 2–3 min |
+| Easy volume | 7 × 50 m | 350 | 4 freestyle + 3 breaststroke, 3/10; may split into 25s. | 30–45 s |
+| Cool-down | 4 × 25 m | 100 | Easy freestyle or comfortable backstroke. | 20 s |
 
 **Checkpoint:** record both 50 times, each 25 split, the 100 splits, start quality and legal touches. "Easy volume" is optional if you are fatigued. Not a max effort: that comes on 2 October.
 
@@ -94,9 +94,9 @@ Full rest day. No drills, no make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 6 × 25 m | 150 | 3 FR + 3 BR, easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR alignment + 2 BR timing. | 30 s |
-| Easy aerobic | 4 × 50 m | 200 | Alternate FR / BR, 3/10. No fast work. | 30–40 s |
+| Warm-up | 6 × 25 m | 150 | 3 freestyle + 3 breaststroke, easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle alignment + 2 breaststroke timing. | 30 s |
+| Easy aerobic | 4 × 50 m | 200 | Alternate freestyle / breaststroke, 3/10. No fast work. | 30–40 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
 **Checkpoint:** leave fresher than you arrived. This is a recovery session, not one to "win".
@@ -105,12 +105,12 @@ Full rest day. No drills, no make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR alignment + 2 BR timing. | 30 s |
-| Race-pace 25s | 6 × 25 m | 150 | 9/10; 4 FR + 2 BR (FR, FR, BR, FR, FR, BR). Stop early if two reps in a row fade by about 1 s. | 45–60 s |
-| 100 pace | 2 × 50 m | 100 | FR at 8/10, even split. | 90 s |
-| Easy | 3 × 50 m | 150 | Alternate FR / BR, 3–4/10. | 30–40 s |
-| Cool-down | 4 × 25 m | 100 | Easy FR or comfortable backstroke. | 20 s |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle alignment + 2 breaststroke timing. | 30 s |
+| Race-pace 25s | 6 × 25 m | 150 | 9/10; 4 freestyle + 2 breaststroke (freestyle, freestyle, breaststroke, freestyle, freestyle, breaststroke). Stop early if two reps in a row fade by about 1 s. | 45–60 s |
+| 100 pace | 2 × 50 m | 100 | Freestyle at 8/10, even split. | 90 s |
+| Easy | 3 × 50 m | 150 | Alternate freestyle / breaststroke, 3–4/10. | 30–40 s |
+| Cool-down | 4 × 25 m | 100 | Easy freestyle or comfortable backstroke. | 20 s |
 
 **Checkpoint:** taper begins. Keep the quality, not the count.
 
@@ -118,22 +118,22 @@ Full rest day. No drills, no make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 30 s |
-| Starts + breakout | 4 × 25 m | 100 | 2 FR + 2 BR. Familiar supervised start, brief comfortable breakout; wall push if needed. FR: short underwater kick only. | 90–120 s |
-| Fast turns | 4 × 25 m | 100 | Fast-turn drill, 2 FR + 2 BR. | 45–60 s |
-| Easy endurance | 3 × 50 m | 150 | Alternate FR / BR, 3–4/10. | 30–45 s |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 30 s |
+| Starts + breakout | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke. Familiar supervised start, brief comfortable breakout; wall push if needed. Freestyle: short underwater kick only. | 90–120 s |
+| Fast turns | 4 × 25 m | 100 | Fast-turn drill, 2 freestyle + 2 breaststroke. | 45–60 s |
+| Easy endurance | 3 × 50 m | 150 | Alternate freestyle / breaststroke, 3–4/10. | 30–45 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
-**Checkpoint:** the coach checks the legal BR pullout and first surface stroke. Never extend underwater distance.
+**Checkpoint:** the coach checks the legal breaststroke pullout and first surface stroke. Never extend underwater distance.
 
 ### Wednesday, 30 September — Easy recovery + technique · 400 m
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR. | 30 s |
-| Easy aerobic | 2 × 50 m | 100 | 1 FR + 1 BR, 3/10. | 30 s |
+| Warm-up | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke. | 30 s |
+| Easy aerobic | 2 × 50 m | 100 | 1 freestyle + 1 breaststroke, 3/10. | 30 s |
 | Cool-down | 4 × 25 m | 100 | Easy choice. | 20 s |
 
 **Checkpoint:** no fast work. Short and easy on purpose.
@@ -142,12 +142,12 @@ Full rest day. No drills, no make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 30 s |
-| Max speed | 4 × 25 m | 100 | 3 FR + 1 BR from a push or supervised start. Max for the first 15 m. | 2–3 min |
-| 100 pace | 2 × 50 m | 100 | FR at 8/10, even split. | 90 s |
-| Race-pace 25s | 4 × 25 m | 100 | 9/10; 2 FR + 2 BR. | 45–60 s |
-| Cool-down | 4 × 25 m | 100 | Easy FR or comfortable backstroke. | 20 s |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 30 s |
+| Max speed | 4 × 25 m | 100 | 3 freestyle + 1 breaststroke from a push or supervised start. Max for the first 15 m. | 2–3 min |
+| 100 pace | 2 × 50 m | 100 | Freestyle at 8/10, even split. | 90 s |
+| Race-pace 25s | 4 × 25 m | 100 | 9/10; 2 freestyle + 2 breaststroke. | 45–60 s |
+| Cool-down | 4 × 25 m | 100 | Easy freestyle or comfortable backstroke. | 20 s |
 
 **Checkpoint:** finish feeling you could do more. This is the last hard speed day.
 
@@ -155,14 +155,14 @@ Full rest day. No drills, no make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 8 × 25 m | 200 | Alternate 2 FR / 2 BR; easy. | 20–30 s |
-| Light drills | 4 × 25 m | 100 | 2 FR + 2 BR, easy technique. | 30 s |
-| Start rehearsal | 2 × 25 m | 50 | 1 FR + 1 BR, familiar supervised start; easy after the breakout. | 90–120 s |
-| Max test: FR | 1 × 50 m | 50 | **Max effort** 50 FR, start to finish. Coach or a friend times it and records the 25 splits. | 8–10 min total recovery |
-| Between swims | 4 × 25 m | 100 | Very easy FR/backstroke. | 30 s |
-| Test: BR | 1 × 50 m | 50 | 50 BR at 9/10 with legal pullout and two-hand touches. | 3–5 min |
+| Warm-up | 8 × 25 m | 200 | Alternate 2 freestyle / 2 breaststroke; easy. | 20–30 s |
+| Light drills | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy technique. | 30 s |
+| Start rehearsal | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, familiar supervised start; easy after the breakout. | 90–120 s |
+| Max test: Freestyle | 1 × 50 m | 50 | **Max effort** 50 m freestyle, start to finish. Coach or a friend times it and records the 25 splits. | 8–10 min total recovery |
+| Between swims | 4 × 25 m | 100 | Very easy freestyle/backstroke. | 30 s |
+| Test: Breaststroke | 1 × 50 m | 50 | 50 m breaststroke at 9/10 with legal pullout and two-hand touches. | 3–5 min |
 | Easy swim | 1 × 50 m | 50 | Easy. | — |
-| Cool-down | 4 × 25 m | 100 | Easy FR or comfortable backstroke. | 20 s |
+| Cool-down | 4 × 25 m | 100 | Easy freestyle or comfortable backstroke. | 20 s |
 
 **Checkpoint:** this gives you your true pace and 25 splits, so you can set a realistic race target. It is one rep per stroke with full recovery; do not repeat it. Skip the max if you are ill or on an amber day.
 
@@ -174,8 +174,8 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 20–30 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR. | 30 s |
+| Warm-up | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 20–30 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke. | 30 s |
 | Easy swim | 4 × 25 m | 100 | Easy choice. | 20 s |
 
 **Checkpoint:** no fast work.
@@ -184,10 +184,10 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 6 × 25 m | 150 | 3 FR + 3 BR, easy. | 25 s |
-| Technique | 4 × 25 m | 100 | 2 FR alignment + 2 BR timing. | 30 s |
-| Max speed | 2 × 25 m | 50 | 1 FR max + 1 BR at 9/10, from a push or supervised start. | 2–3 min |
-| 100 pace | 2 × 50 m | 100 | FR at 8/10, even split. | 90 s |
+| Warm-up | 6 × 25 m | 150 | 3 freestyle + 3 breaststroke, easy. | 25 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle alignment + 2 breaststroke timing. | 30 s |
+| Max speed | 2 × 25 m | 50 | 1 freestyle max + 1 breaststroke at 9/10, from a push or supervised start. | 2–3 min |
+| 100 pace | 2 × 50 m | 100 | Freestyle at 8/10, even split. | 90 s |
 | Cool-down | 4 × 25 m | 100 | Easy choice. | 20 s |
 
 **Checkpoint:** no added endurance set, no hard dryland.
@@ -196,11 +196,11 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 6 × 25 m | 150 | 3 FR + 3 BR, easy. | 25 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 30 s |
-| Starts + breakout | 4 × 25 m | 100 | 2 FR + 2 BR. Familiar supervised start, brief breakout; wall push if needed. | 90–120 s |
-| Fast turns | 2 × 25 m | 50 | Fast-turn drill, 1 FR + 1 BR. | 45–60 s |
-| Finish practice | 2 × 25 m | 50 | 1 FR + 1 BR, easy approach with an accurate race finish. | 30–45 s |
+| Warm-up | 6 × 25 m | 150 | 3 freestyle + 3 breaststroke, easy. | 25 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 30 s |
+| Starts + breakout | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke. Familiar supervised start, brief breakout; wall push if needed. | 90–120 s |
+| Fast turns | 2 × 25 m | 50 | Fast-turn drill, 1 freestyle + 1 breaststroke. | 45–60 s |
+| Finish practice | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, easy approach with an accurate race finish. | 30–45 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
 **Checkpoint:** if you can get into the meet pool before the 12th, do this session there. Use only familiar skills; do not learn a new dive this week.
@@ -209,9 +209,9 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 25 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR, relaxed. | 30 s |
-| Build | 2 × 25 m | 50 | 1 FR + 1 BR, build smoothly to 7/10. | 60 s |
+| Warm-up | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 25 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, relaxed. | 30 s |
+| Build | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, build smoothly to 7/10. | 60 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
 **Checkpoint:** stay fresh; no hard work.
@@ -220,9 +220,9 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 6 × 25 m | 150 | 3 FR + 3 BR, easy. | 25 s |
-| Technique | 2 × 25 m | 50 | 1 FR + 1 BR, easy. | 30 s |
-| Full-race sequence | 2 × 50 m | 100 | 1 FR + 1 BR at 7/10, familiar start through finish; NOT a time trial. | 5 min between; longer if breathing is unsettled |
+| Warm-up | 6 × 25 m | 150 | 3 freestyle + 3 breaststroke, easy. | 25 s |
+| Technique | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, easy. | 30 s |
+| Full-race sequence | 2 × 50 m | 100 | 1 freestyle + 1 breaststroke at 7/10, familiar start through finish; NOT a time trial. | 5 min between; longer if breathing is unsettled |
 | Cool-down | 4 × 25 m | 100 | Easy choice. | 20 s |
 
 **Checkpoint:** rehearse the routine calmly; no additional starts or sprints.
@@ -231,9 +231,9 @@ Full rest day. No make-up training.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 25 s |
-| Technique | 4 × 25 m | 100 | 2 FR + 2 BR, relaxed. | 30 s |
-| Brief speed | 2 × 25 m | 50 | 1 FR + 1 BR at 8/10. | 90 s |
+| Warm-up | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 25 s |
+| Technique | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, relaxed. | 30 s |
+| Brief speed | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke at 8/10. | 90 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
 **Checkpoint:** leave fresh.
@@ -246,9 +246,9 @@ Full rest day. Prepare bag, cap, goggles and suit; rest and eat normally.
 
 | Block | Set | Metres | Instructions | Rest |
 |---|---|---:|---|---|
-| Warm-up | 4 × 25 m | 100 | 2 FR + 2 BR, easy. | 20–30 s |
-| Technique | 2 × 25 m | 50 | 1 FR + 1 BR, relaxed. | 30 s |
-| Activation | 2 × 25 m | 50 | 1 FR + 1 BR at 8/10, clean and quick. | 90 s |
+| Warm-up | 4 × 25 m | 100 | 2 freestyle + 2 breaststroke, easy. | 20–30 s |
+| Technique | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke, relaxed. | 30 s |
+| Activation | 2 × 25 m | 50 | 1 freestyle + 1 breaststroke at 8/10, clean and quick. | 90 s |
 | Cool-down | 2 × 25 m | 50 | Easy choice. | 20 s |
 
 **Checkpoint:** short and sharp. Skip it if you feel unwell or unusually fatigued.
@@ -259,22 +259,22 @@ Full rest day. Prepare bag, cap, goggles and suit; rest and eat normally.
 
 | Order | Work | Distance / recovery |
 |---|---|---|
-| Warm-up | 4 × 50 easy: 2 FR + 2 BR | 200 m; 20–30 s rest |
+| Warm-up | 4 × 50 easy: 2 freestyle + 2 breaststroke | 200 m; 20–30 s rest |
 | Technique | 2 × 25: one of each stroke, relaxed | 50 m; 30 s rest |
 | Build | 2 × 25: one of each, building to 8/10 | 50 m; 60 s rest |
-| Start + burst | 2 × 25: one FR, one BR from a start if the warm-up pool allows it, otherwise a wall push | 50 m; 90–120 s rest |
+| Start + burst | 2 × 25: one freestyle, one breaststroke from a start if the warm-up pool allows it, otherwise a wall push | 50 m; 90–120 s rest |
 | Settle | 2 × 25 very easy | 50 m; 20 s rest |
 | Race | Entered event: familiar start, composed opening, carry rhythm through the finish | 50 / 100 m |
 | Between events | If a lane is free: 4 × 25 very easy. Stay warm, drink normally, and have a familiar snack if the gap is long. | 100 m optional |
 | Re-warm-up | If the gap is long and a lane is free: 2 × 25 easy + 1 × 25 controlled for the next stroke | 75 m optional |
 | Cool-down | 4 × 25 very easy if available and comfortable | 100 m |
 
-**Planned total:** 400 m pre-race + 200 m of racing (50 FR, 100 FR, 50 BR) + 100 m cool-down = 700 m. With both optional blocks, 875 m. Adapt to lane access and coach guidance. If no warm-up pool is available, use a familiar gentle land warm-up.
+**Planned total:** 400 m pre-race + 200 m of racing (50 m freestyle, 100 m freestyle, 50 m breaststroke) + 100 m cool-down = 700 m. With both optional blocks, 875 m. Adapt to lane access and coach guidance. If no warm-up pool is available, use a familiar gentle land warm-up.
 
 **Race cues:**
-- **50 FR:** react and drive off the start, keep tempo through the turn, breathe naturally, swim through the touch.
-- **100 FR:** aim for a controlled first 50 and a purposeful second 50; second 50 within about 2 s of the first.
-- **50 BR:** connected pull–kick timing, legal pullout, quick two-hand touches on the turn and finish.
+- **50 m freestyle:** react and drive off the start, keep tempo through the turn, breathe naturally, swim through the touch.
+- **100 m freestyle:** aim for a controlled first 50 and a purposeful second 50; second 50 within about 2 s of the first.
+- **50 m breaststroke:** connected pull–kick timing, legal pullout, quick two-hand touches on the turn and finish.
 
 **Rehearsal/race log:** Date ___ · Stroke ___ · Distance ___ · Time ___ · First 25 ___ · Later splits ___ · Legal turn/finish? ___ · Breathing controlled? ___ · One cue for next swim ___
 

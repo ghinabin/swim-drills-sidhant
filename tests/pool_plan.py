@@ -100,7 +100,7 @@ def run():
                 assert "45–60 seconds" in page.locator("#set-2").inner_text()
                 page.goto(base + "session.html?id=w1d1")
                 assert "8–10 minutes" in page.locator("#set-3").inner_text()
-                assert "Full 50 FR at 8/10" in page.locator("#set-3").inner_text()
+                assert "Full 50 m freestyle at 8/10" in page.locator("#set-3").inner_text()
                 page.goto(base + "session.html?id=w1d0")
                 assert page.locator("#set-0").get_attribute("aria-pressed") == "true"
                 page.locator("#set-0").click()
@@ -122,7 +122,7 @@ def run():
                 assert "Meet timetable · 700 m planned · up to 875 m" in page.locator(".page-intro p").inner_text()
                 assert page.locator(".set-title").count() == 11
                 assert "OPTIONAL LENGTHS" in page.locator("#set-6").inner_text()
-                assert "50 BR" in page.locator("#set-9").inner_text()
+                assert "50 m breaststroke" in page.locator("#set-9").inner_text()
 
                 # Storage failures must not prevent marking drills or using the timer.
                 page.evaluate("""() => {

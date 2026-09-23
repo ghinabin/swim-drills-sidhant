@@ -7,7 +7,7 @@ const assert = require("node:assert/strict");
 
 const root = path.resolve(__dirname, "..");
 const source = fs.readFileSync(path.join(root, "SWIMMING-PLAN.md"), "utf8");
-const revision = "2026-09-23-freestyle-breaststroke-v2";
+const revision = "2026-09-23-freestyle-breaststroke-v2-full-names";
 const monthIndex = { September: 8, October: 9 };
 const dow = {
   Monday: "Mon",
@@ -37,7 +37,7 @@ function kind(title) {
   if (/max speed|max test/i.test(title)) return "max";
   if (/technique|light drills/i.test(title)) return "tech";
   if (/turn|start|breakout|finish practice/i.test(title)) return "skill";
-  if (/pace|race|test: br|build|brief speed|activation/i.test(title))
+  if (/pace|race|test: breaststroke|build|brief speed|activation/i.test(title))
     return "pace";
   if (/endurance|aerobic|volume/i.test(title)) return "endurance";
   return "easy";

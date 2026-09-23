@@ -33,7 +33,7 @@ const dateKey = (date) =>
   "-" +
   String(date.getDate()).padStart(2, "0");
 const todayKey = dateKey(new Date());
-const schedule = DAYS.filter((day) => !day.historical && !day.race);
+const schedule = DAYS.filter((day) => !day.historical);
 const training = schedule.filter((day) => !day.rest);
 const currentDay =
   schedule.find((day) => dateKey(day.date) === todayKey) ||
@@ -78,9 +78,9 @@ function intro(title, description = "") {
 }
 
 function sessionMeta(day) {
-  return day.rest
-    ? "Rest day · 0 m"
-    : day.pool + " pool &middot; " + day.laps + " lengths &middot; " + day.dist;
+  if (day.rest) return "Rest day · 0 m";
+  if (day.race) return day.pool + " &middot; " + day.dist;
+  return day.pool + " pool &middot; " + day.laps + " lengths &middot; " + day.dist;
 }
 
 function readableTiming(value) {
@@ -160,10 +160,9 @@ function raceCountdown() {
       Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())) /
       86400000,
   );
-  if (remaining > 0) return remaining + " days to the first race";
-  if (remaining === 0) return "First race today";
-  if (remaining === -1) return "Second race today";
-  return "Race block complete";
+  if (remaining > 0) return remaining + " days to competition";
+  if (remaining === 0) return "Competition today";
+  return "Competition complete";
 }
 
 function overview() {
@@ -171,7 +170,7 @@ function overview() {
   main.innerHTML =
     intro(
       "Pool drills",
-      "50 + 100 free · 25 m pool",
+      "50 + 100 free · 50 breast · 25 m pool",
     ) +
     '<section class="hero" aria-labelledby="current-session"><div><div class="eyebrow">' +
     (dateKey(currentDay.date) === todayKey ? "Today" : "Next session") +
@@ -203,7 +202,7 @@ function plan() {
   main.innerHTML =
     intro(
       "Training plan",
-      "23 Sep – 11 Oct",
+      "24 Sep – 12 Oct",
     ) +
     '<nav class="week-jump" aria-label="Jump to phase">' +
     WEEKS.map(
@@ -220,6 +219,11 @@ function plan() {
     '<div class="plan-actions"><a class="text-link" data-jump href="#day-' +
     currentDay.id +
     '">Find current day</a><button class="text-button" id="expand-weeks">Expand all phases</button></div>' +
+    '<details class="plan-guide panel"><summary><strong>How to use this plan</strong><span>Safety, effort and technique cues</span></summary><div class="plan-guide-body"><ul>' +
+    PLAN_GUIDANCE.map((item) => "<li>" + escapeHTML(item) + "</li>").join("") +
+    '</ul><h2>Technique card</h2><dl>' +
+    TECHNIQUE_CUES.map((item) => "<dt>" + escapeHTML(item.focus) + "</dt><dd>" + escapeHTML(item.cue) + "</dd>").join("") +
+    "</dl></div></details>" +
     WEEKS.map((week, wi) => {
       const days = schedule.filter((day) => day.wi === wi);
       return (
@@ -236,8 +240,12 @@ function plan() {
         " &ndash; " +
         fmt(days[days.length - 1].date) +
         '</small></span><span class="week-count">' +
-        days.filter((day) => !day.rest).length +
-        ' swims</span></summary><div class="week-body">' +
+        (days.some((day) => day.race)
+          ? "competition"
+          : days.filter((day) => !day.rest).length + " swims") +
+        '</span></summary><div class="week-body"><p>' +
+        escapeHTML(week.sub + " · " + week.distance) +
+        "</p>" +
         days.map(card).join("") +
         "</div></details>"
       );
@@ -331,11 +339,12 @@ function session() {
           '"><span class="set-number">' +
           escapeHTML(String(block.n).replace(" min", "").replace(" reps", "")) +
           "<small>" +
-          (typeof block.n === "number"
-            ? "LENGTHS"
-            : String(block.n).includes("min")
-              ? "MIN"
-              : "REPS") +
+          (block.unit ||
+            (typeof block.n === "number"
+              ? "LENGTHS"
+              : String(block.n).includes("min")
+                ? "MIN"
+                : "REPS")) +
           '</small></span><span class="set-content"><span class="set-title">' +
           escapeHTML(block.t) +
           '</span><span class="set-description">' +
@@ -574,8 +583,8 @@ function drills() {
               escapeHTML(block.t) +
               "</h3><small>" +
               (typeof block.n === "number"
-                ? block.n + " lengths"
-                : escapeHTML(block.n)) +
+                ? block.n + " " + (block.unit || "lengths").toLowerCase()
+                : escapeHTML(block.n + (block.unit ? " " + block.unit.toLowerCase() : ""))) +
               "</small></summary><p>" +
               escapeHTML(readableTiming(block.d)) +
               "</p>" +

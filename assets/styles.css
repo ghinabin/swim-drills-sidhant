@@ -361,6 +361,62 @@ main {
   padding: 24px;
   min-width: 0;
 }
+.plan-guide {
+  padding: 0;
+  margin-bottom: 18px;
+  overflow: hidden;
+}
+.plan-guide summary {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 22px;
+  list-style: none;
+}
+.plan-guide summary::-webkit-details-marker {
+  display: none;
+}
+.plan-guide summary span {
+  color: var(--muted);
+  font-size: 11px;
+  text-align: right;
+}
+.plan-guide-body {
+  border-top: 1px solid var(--line);
+  padding: 20px 22px 24px;
+}
+.plan-guide-body ul {
+  display: grid;
+  gap: 10px;
+  padding-left: 20px;
+}
+.plan-guide-body li,
+.plan-guide-body dd {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+}
+.plan-guide-body h2 {
+  font-size: 17px;
+  margin: 24px 0 10px;
+}
+.plan-guide-body dl {
+  display: grid;
+  grid-template-columns: minmax(130px, 0.32fr) minmax(0, 1fr);
+}
+.plan-guide-body dt,
+.plan-guide-body dd {
+  border-top: 1px solid var(--line);
+  padding: 10px 0;
+}
+.plan-guide-body dt {
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 700;
+  padding-right: 18px;
+}
 .section-title {
   display: flex;
   justify-content: space-between;
@@ -922,6 +978,24 @@ select {
   .page-intro p {
     font-size: 13px;
     margin-top: 10px;
+  }
+  .plan-guide summary {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .plan-guide summary span {
+    text-align: left;
+  }
+  .plan-guide-body dl {
+    grid-template-columns: 1fr;
+  }
+  .plan-guide-body dt {
+    padding-bottom: 2px;
+  }
+  .plan-guide-body dd {
+    border-top: 0;
+    padding-top: 0;
   }
   .page-intro > .pill {
     display: none;
